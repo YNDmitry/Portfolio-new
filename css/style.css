@@ -186,7 +186,7 @@ p {
 .avatar {
   position: absolute;
   left: auto;
-  right: -42px;
+  right: -4%;
   bottom: -68vh;
   z-index: -1;
   width: 65vw;
