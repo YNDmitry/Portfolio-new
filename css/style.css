@@ -924,6 +924,7 @@ p {
 
   .author-block {
     margin-top: 15vh;
+    display: none;
   }
 
   .cards-grid {
